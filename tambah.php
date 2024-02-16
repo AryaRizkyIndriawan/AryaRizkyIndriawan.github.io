@@ -69,7 +69,7 @@ if (isset($_POST["submit"])) {
   </nav> -->
   <div class="container my-3">
     <div class="row">
-      <div class="col-8">
+      <div class="col-md-8 mx-auto">
         <h2 class="my-3">Tambah data mahasiswa</h2>
         <form method="post" autocomplete="off" enctype="multipart/form-data">
           <div class="row mb-3">
